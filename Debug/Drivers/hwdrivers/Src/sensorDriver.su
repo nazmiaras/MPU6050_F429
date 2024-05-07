@@ -1,0 +1,9 @@
+../Drivers/hwdrivers/Src/sensorDriver.c:22:17:sensor_test_device	24	static
+../Drivers/hwdrivers/Src/sensorDriver.c:34:9:sensor_read_register8	40	static
+../Drivers/hwdrivers/Src/sensorDriver.c:47:10:sensor_read_register16	40	static
+../Drivers/hwdrivers/Src/sensorDriver.c:61:17:sensor_write_register8	40	static
+../Drivers/hwdrivers/Src/sensorDriver.c:73:17:sensor_write_register16	40	static
+../Drivers/hwdrivers/Src/sensorDriver.c:88:17:sensor_read_bytes	40	static
+../Drivers/hwdrivers/Src/sensorDriver.c:99:17:sensor_write_bytes	40	static
+../Drivers/hwdrivers/Src/sensorDriver.c:110:10:bytesToUint16_LittleEndian	16	static
+../Drivers/hwdrivers/Src/sensorDriver.c:114:10:bytesToUint16_BigEndian	16	static

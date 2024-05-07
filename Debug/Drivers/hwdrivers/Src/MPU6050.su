@@ -1,0 +1,7 @@
+../Drivers/hwdrivers/Src/MPU6050.c:17:17:MPU6050_initialize	24	static
+../Drivers/hwdrivers/Src/MPU6050.c:33:17:MPU6050_set_acc_range	24	static
+../Drivers/hwdrivers/Src/MPU6050.c:50:17:MPU6050_set_gyro_range	24	static
+../Drivers/hwdrivers/Src/MPU6050.c:67:17:MPU6050_set_sleep_mode	24	static
+../Drivers/hwdrivers/Src/MPU6050.c:83:17:MPU6050_read_data	32	static
+../Drivers/hwdrivers/Src/MPU6050.c:111:17:MPU6050_TestSensor	16	static
+../Drivers/hwdrivers/Src/MPU6050.c:117:9:MPU6050_ReadID	16	static
